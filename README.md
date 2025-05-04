@@ -19,10 +19,12 @@ This is a web-based Doctor Appointment System that helps patients book appointme
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![homepage](https://github.com/user-attachments/assets/863edc2c-0245-4904-93d6-c3e2d0e21dac)
+
 
 ### Appointment Booking Page
-![Booking](screenshots/booking.png)
+![book appointment](https://github.com/user-attachments/assets/06e9f701-f530-440a-941a-b7a874e62d9c)
+
 
 > 📁 *Note: Place your screenshots inside a folder named `screenshots` in your project.*
 
